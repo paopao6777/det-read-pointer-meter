@@ -8,7 +8,7 @@ Automatic reading of meters
 ### 依赖项
 请确保已安装以下依赖：
 - Python >= 3.8
-- Pytorch >= 2.0.1
+- Pytorch >= 1.8.0
 - OpenCV
 - NumPy
 
