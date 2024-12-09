@@ -15,3 +15,6 @@ Automatic reading of meters
 可以使用以下命令安装所需依赖：
 ```bash
 pip install -r requirements.txt
+
+## OCR
+文件夹中包含PPOCRLabel 用于标签文本识别与检测数据集
