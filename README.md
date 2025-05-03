@@ -1,6 +1,6 @@
 # det-read-pointer-meter
 Automatic reading of meters
-> **Note**: 作者正在更新本项目，如有需要可以通过邮箱联系：502483096@qq.com
+> **Note**: 本项目正在进步一步研究中，数据集等暂时无法公开。
 
 ## 项目简介
 Automatic reading of meters
